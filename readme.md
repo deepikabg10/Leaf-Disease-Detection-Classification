@@ -1,6 +1,8 @@
-# Project Name
+# Leaf-Disease-Detection-Classification
 
-Welcome to the Project Name! This is a brief guide on how to set up and run the project.
+> A Novel Approach for Precision Agriculture
+
+Welcome to the Enhancing Plant Disease Detection through Transfer Learning with Ensemble Techniques! This is a brief guide on how to set up and run the project.
 
 ## Prerequisites
 
@@ -72,13 +74,13 @@ After the application has started, you can access it by visiting [http://localho
 deactivate
 ```
 
-## Contributors
+<!-- ## Contributors
 
 - [Contributor 1](link_to_profile)
 - [Contributor 2](link_to_profile)
 - [Contributor 3](link_to_profile)
-- [Contributor 3](link_to_profile)
+- [Contributor 3](link_to_profile) -->
 
 ## License
 
-This project is licensed under the [License Name](license_file) - see the [LICENSE.md](license_file) file for details.
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE** - see the [LICENSE](LICENSE) file for details.
