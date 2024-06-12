@@ -1,0 +1,58 @@
+# Local Directories
+models/
+notebooks/
+
+# Local Files
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development configuration
+.env
+
+# Logs
+*.log
+
+# Virtual environment
+.venv/
+.env/
+
+# Dependencies
+lib/
+lib64/
+bin/
+include/
+share/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+db.sqlite3
+
+# Static files
+static/
+
+# Media files
+media/
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
